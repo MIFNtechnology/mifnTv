@@ -1,0 +1,183 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/26p5n35q37cqx63rnv7j"
+#EXTINF:-1 tvg-id="113" tvg-name="Astro Aura HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="mifnTv" tvg-shift="+8",Astro Aura HD
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71145
+#EXTINF:-1 tvg-id="501" tvg-name="Astro Awani HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="mifnTv" tvg-shift="+8",Astro Awani HD
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="Astro Citra HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="mifnTv" tvg-shift="+8",Astro Citra HD
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="mifnTv" tvg-shift="+8",Astro Oasis HD
+http://50.7.161.82:8277/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="mifnTv" tvg-shift="+8",Astro Prima HD
+http://50.7.161.82:8277/streams/d/prima_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="112" tvg-name="Astro Rania HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="mifnTv" tvg-shift="+8",Astro Rania HD
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71144
+#EXTINF:-1 tvg-id="104" tvg-name="Astro Ria HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="mifnTv" tvg-shift="+8",Astro Ria HD
+http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="107" tvg-name="Astro Warna HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="mifnTv" tvg-shift="+8",Astro Warna HD
+http://95.216.221.22:5080/WebRTCApp/streams/warna.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+#EXTINF:-1 tvg-id="502" tvg-name="Bernama" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="mifnTv" tvg-shift="+8",Bernama
+http://my.odtv.uk:80/live/1159189903/4938860969/78.m3u8
+#EXTINF:-1 tvg-id="109" tvg-name="Naura HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="mifnTv" tvg-shift="+8",Naura HD
+http://50.7.161.82:8277/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="mifnTv" tvg-shift="+8",TV1 HD
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#EXTINF:-1 tvg-id="102" tvg-name="TV2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="mifnTv" tvg-shift="+8",TV2 HD
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="mifnTv" tvg-shift="+8",TV3
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+#EXTINF:-1 tvg-id="114" tvg-name="Al-Hijrah" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" group-title="mifnTv" tvg-shift="+8",Al-Hijrah
+https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_7284c6607dcb11ec8005ad1f1e0e9f60/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="146" tvg-name="TV Okey" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" group-title="mifnTv" tvg-shift="+8",TV Okey
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+#EXTINF:-1 tvg-id="147" tvg-name="NTV7 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="mifnTv" tvg-shift="+8",NTV7 HD
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png" group-title="mifnTv" tvg-shift="+8",8TV
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdUVkFazx_yJgkTQ1Q6A0b9flcZrIrYdvvqSCBte34wi)/dm/3/x6qud17/s/live-4.m3u8
+#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png" group-title="mifnTv" tvg-shift="+8",TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+#EXTINF:-1 tvg-id="001" tvg-name="BES RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="mifnTv" tvg-shift="+8",BES RTM
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+#EXTINF:-1 tvg-id="002" tvg-name="SUKAN RTM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg" group-title="mifnTv" tvg-shift="+8",SUKAN RTM
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTINF:-1 tvg-id="123" tvg-name="Awesome TV" tvg-logo="https://i.imgur.com/zN35gsY.png" group-title="mifnTv" tvg-shift="+8",Awesome TV
+http://50.7.17.176:61980/myplay/c_58014/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+#EXTINF:-1 tvg-id="1295" tvg-name="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814" group-title="TV" tvg-shift="+8",TV6
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+#EXTINF:-1 tvg-id="1293" tvg-name="Ikim TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png" group-title="TV" tvg-shift="+8",Ikim TV
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8?nimblesessionid=26420508
+#EXTINF:-1 tvg-id="1294" tvg-name="RTM Parlimen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png" group-title="TV" tvg-shift="+8",RTM Parlimen
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#EXTINF:-1 tvg-id="401" tvg-name="HITS Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="mifnTv MOVIES" tvg-shift="+8",HITS Movies HD
+http://93.190.139.35:8278/streams/d/Hitsmovie/playlist.m3u8
+#EXTINF:-1 tvg-id="404" tvg-name="BOO HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="mifnTv MOVIES" tvg-shift="+8",BOO HD
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-id="411" tvg-name="HBO HD" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="mifnTv MOVIES" tvg-shift="+8",HBO HD
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="411(2)" tvg-name="HBO HD" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="mifnTv MOVIES" tvg-shift="+8",HBO HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-id="412" tvg-name="CINEMAX HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="mifnTv MOVIES" tvg-shift="+8",CINEMAX HD
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/65
+#EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="mifnTv MOVIES" tvg-shift="+8",HBO Family
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
+#EXTINF:-1 tvg-id="414(2)" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="mifnTv MOVIES" tvg-shift="+8",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="415" tvg-name="HBO Hits" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="mifnTv MOVIES" tvg-shift="+8",HBO Hits
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
+#EXTINF:-1 tvg-id="415(2)" tvg-name="HBO Hits" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="mifnTv MOVIES" tvg-shift="+8",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="tvN Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" group-title="mifnTv MOVIES" tvg-shift="+8",tvN Movies HD
+http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+#EXTINF:-1 tvg-id="414(2)" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="mifnTv MOVIES" tvg-shift="+8",HBO Family
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5
+#EXTINF:-1 tvg-id="417" tvg-name="FOX Movies HD [SHUTDOWN 1 OCT 2021]" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png" group-title="mifnTv MOVIES" tvg-shift="+8",FOX Movies HD [SHUTDOWN 1 OCT 2021]
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/50
+#EXTINF:-1 tvg-id="418" tvg-name="FOX family Movies HD [SHUTDOWN 1 OCT 2021]" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png" group-title="mifnTv MOVIES" tvg-shift="+8",FOX family Movies HD [SHUTDOWN 1 OCT 2021]
+http://my.odtv.uk:80/live/1159189903/4938860969/75.m3u8
+#EXTINF:-1 tvg-id="419" tvg-name="Fox Action Movies HD[SHUTDOWN 1 OCT 2021]" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/184_144.png" group-title="mifnTv MOVIES" tvg-shift="+8",Fox Action Movies HD[SHUTDOWN 1 OCT 2021]
+http://my.odtv.uk:80/live/1159189903/4938860969/76.m3u8
+#EXTINF:-1 tvg-id="NONASTRO1" tvg-name="&FLIX HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/%26flix.svg/revision/latest/scale-to-width-down/78?cb=20200430075815" group-title="mifnTv MOVIES" tvg-shift="+8",&FLIX HD
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+#EXTINF:-1 tvg-id="NONASTRO2" tvg-name="Cinema World HD" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="mifnTv MOVIES" tvg-shift="+8",Cinema World HD
+http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+#EXTINF:-1 tvg-id="NONASTRO4" tvg-name="HBO Signature FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/200px-HBO_Signature.svg.png" group-title="mifnTv MOVIES" tvg-shift="+8",HBO Signature FHD
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/44
+#EXTINF:-1 tvg-id="550" tvg-name="Nat Geo Wild HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="mifnTv EDUCATION" tvg-shift="+8",Nat Geo Wild HD
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-id="551" tvg-name="National Geographic HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" group-title="mifnTv EDUCATION" tvg-shift="+8",National Geographic HD
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8266
+#EXTINF:-1 tvg-id="552" tvg-name="Discovery Channel HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="mifnTv EDUCATION" tvg-shift="+8",Discovery Channel HD
+http://babutv.aliflailabd.com:8989/discovery/index.m3u8
+#EXTINF:-1 tvg-id="554" tvg-name="BBC Earth" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="mifnTv EDUCATION" tvg-shift="+8",BBC Earth
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+#EXTINF:-1 tvg-id="556" tvg-name="Animal Planet HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="mifnTv EDUCATION" tvg-shift="+8",Animal Planet HD
+http://50.7.161.82:8277/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-id="557" tvg-name="Discovery Science HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/375_144.png" group-title="mifnTv EDUCATION" tvg-shift="+8",Discovery Science HD
+https://itvoign.multitvsolution.com/idvo/discoverscienceeng.m3u8
+#EXTINF:-1 tvg-id="557(2)" tvg-name="Discovery Science HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/375_144.png" group-title="mifnTv EDUCATION" tvg-shift="+8",Discovery Science HD
+https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
+#EXTINF:-1 tvg-id="601" tvg-name="Astro Tutor TV SK" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/59_144.png" group-title="mifnTv EDUCATION" tvg-shift="+8",Astro Tutor TV SK
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/6490
+#EXTINF:-1 tvg-id="602" tvg-name="Astro Tutor TV PT3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/127_144.png" group-title="mifnTv EDUCATION" tvg-shift="+8",Astro Tutor TV PT3
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5015
+#EXTINF:-1 tvg-id="603" tvg-name="Astro Tutor TV SPM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/128_144.png" group-title="mifnTv EDUCATION" tvg-shift="+8",Astro Tutor TV SPM
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5002
+#EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="mifnTv CARTOONS" tvg-shift="+8",Astro Ceria HD
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-id="612" tvg-name="Astro TA-DAA!" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png" group-title="mifnTv CARTOONS" tvg-shift="+8",Astro TA-DAA!
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/11744
+#EXTINF:-1 tvg-id="615" tvg-name="Cartoon Network FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="mifnTv CARTOONS" tvg-shift="+8",Cartoon Network FHD
+http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
+#EXTINF:-1 tvg-id="615(2)" tvg-name="Cartoon Network FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="mifnTv CARTOONS" tvg-shift="+8",Cartoon Network FHD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1543
+#EXTINF:-1 tvg-id="616" tvg-name="Nickelodeon HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" group-title="mifnTv CARTOONS" tvg-shift="+8",Nickelodeon HD
+http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-id="617" tvg-name="Nickelodeon Junior FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="mifnTv CARTOONS" tvg-shift="+8",Nickelodeon Junior FHD
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/22
+#EXTINF:-1 tvg-id="618" tvg-name="Baby TV HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/94_144.png" group-title="mifnTv CARTOONS" tvg-shift="+8",Baby TV HD
+http://198.16.106.61:8278/streams/d/Babytv/playlist.m3u8
+#EXTINF:-1 tvg-id="619" tvg-name="Boomerang" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png" group-title="mifnTv CARTOONS" tvg-shift="+8",Boomerang
+http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="620" tvg-name="Cbeebies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/6/6f/CBeebies.png" group-title="mifnTv CARTOONS" tvg-shift="+8",Cbeebies HD
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/707
+#EXTINF:-1 tvg-id="0611" tvg-name="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/220px-Disney_Channel_logo_%282014%29.svg.png" group-title="mifnTv CARTOONS" tvg-shift="+8",Disney Channel HD
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4632
+#EXTINF:-1 tvg-id="0612" tvg-name="ZooMoo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/220px-ZooMoo_logo.svg.png" group-title="mifnTv CARTOONS" tvg-shift="+8",ZooMoo HD
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/145
+#EXTINF:-1 tvg-id="701" tvg-name="AXN FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",AXN FHD
+https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
+#EXTINF:-1 tvg-id="702" tvg-name="Hello HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",Hello HD
+http://50.7.161.82:8278/streams/d/hello_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="703" tvg-name="Lifetime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",Lifetime
+http://flowfhd.xyz:25461/Annabelle/12345/176411
+#EXTINF:-1 tvg-id="704" tvg-name="PRIMEtime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",PRIMEtime
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8545
+#EXTINF:-1 tvg-id="705" tvg-name="KIX HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",KIX HD
+http://210.210.155.35:80/session/0d4eba66-eb87-11eb-b7f4-b82a72d63267/dr9445/h/h07/01.m3u8
+#EXTINF:-1 tvg-id="706" tvg-name="HITS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",HITS HD
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+#EXTINF:-1 tvg-id="707" tvg-name="TLC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",TLC
+http://idvd.multitvsolution.com/idvo/tlceng_540p/index.m3u8
+#EXTINF:-1 tvg-id="708" tvg-name="Food Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",Food Network HD
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="710" tvg-name="Nat Geo People HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/199_144.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",Nat Geo People HD
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8314
+#EXTINF:-1 tvg-id="712" tvg-name="Warner TV HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",Warner TV HD
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8265
+#EXTINF:-1 tvg-id="713" tvg-name="Paramount Network FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/448_144.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",Paramount Network FHD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/32
+#EXTINF:-1 tvg-id="714" tvg-name="Crime & Investigation FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",Crime & Investigation FHD
+https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
+#EXTINF:-1 tvg-id="715" tvg-name="HGTV HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",HGTV HD
+http://50.7.161.82:8277/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 tvg-id="716" tvg-name="DMAX HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",DMAX HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
+#EXTINF:-1 tvg-id="718" tvg-name="MTV Asia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",MTV Asia
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745775
+#EXTINF:-1 tvg-id="719" tvg-name="Animax HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/419_144.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",Animax HD
+http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-id="719(2)" tvg-name="Animax FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/419_144.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",Animax FHD
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+#EXTINF:-1 tvg-id="0502" tvg-name="Love Nature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",Love Nature HD
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="0473" tvg-name="Rock Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",Rock Entertainment
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tvg-id="0474" tvg-name="Rock Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rock_Extreme.png/1200px-Rock_Extreme.png" group-title="mifnTv ENTERTAINMENT" tvg-shift="+8",Rock Extreme
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+#EXTINF:-1 tvg-id="801" tvg-name="Astro Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="mifnTv SPORTS" tvg-shift="+8",Astro Arena
+http://axcestv.vip:8080/freeview/axcestv/592
+#EXTINF:-1 tvg-id="801(2)" tvg-name="Astro Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="mifnTv SPORTS" tvg-shift="+8",Astro Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="802" tvg-name="Astro Arena 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="mifnTv SPORTS" tvg-shift="+8",Astro Arena 2
+http://95.216.221.22:5080/WebRTCApp/streams/arena2.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="mifnTv SPORTS" tvg-shift="+8",Astro SuperSport HD
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/148
+#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="mifnTv SPORTS" tvg-shift="+8",Astro SuperSport 2 HD
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4990
+#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="mifnTv SPORTS" tvg-shift="+8",Astro SuperSport 3 HD
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4991
+#EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="mifnTv SPORTS" tvg-shift="+8",Astro SuperSport 4 HD
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4992
+#EXTINF:-1 tvg-id="821" tvg-name="WWE Network HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51EVQDiJh1L.png" group-title="mifnTv SPORTS" tvg-shift="+8",WWE Network HD
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="824" tvg-name="Astro Cricket HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="mifnTv SPORTS" tvg-shift="+8",Astro Cricket HD
+http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
