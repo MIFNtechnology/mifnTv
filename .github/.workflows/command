@@ -1,0 +1,4 @@
+git branch -m main mifnTv
+git fetch origin
+git branch -u origin/mifnTv mifnTv
+git remote set-head origin -a
