@@ -1,30 +1,31 @@
-## Welcome to GitHub Pages
+#  MIFN technology
 
-You can use the [editor on GitHub](https://github.com/MIFNtechnology/mifnTv/edit/mifnTv/README.md) to maintain and preview the content for your website in Markdown files.
+`PENDAWAIAN DAN PEMASANGAN SISTEM KESELAMATAN DAN ELEKTRIK`
+> `dengan pertolongan anda LIKED,FOLLOWED,SHARED`"www.facebook.com/mifntechnology"
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## siaran iptv percuma👉 MifnTv
+* `"https://mifntechnology.github.io/mifnTv/channel/ch-1.m3u8"`
+* `salin dan tampal pada aplikasi iptv`
+* `saluran siaran adalah percuma`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+
+
+
+
+
+
+
+
+
+
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
