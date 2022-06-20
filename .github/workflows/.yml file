@@ -1,7 +1,7 @@
   - name: my-app-install token
     id: my-app
     uses: getsentry/action-github-app-token@v1
-    with: "https://mifntechnology.github.io/mifnTv/channel/
+    with: "https://mifntechnology.github.io/mifnTv/channel/"
       app_id: ${{ secrets.APP_ID }}
       private_key: ${{ secrets.APP_PRIVATE_KEY }}
 
