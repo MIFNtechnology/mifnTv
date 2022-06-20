@@ -31,8 +31,8 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494156086.m3u8
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528649.m3u8
 #EXTINF:-1 tvg-id="616" tvg-name="NICKELODEON hd" tvg-logo="https://i.ytimg.com/vi/OYkwp6AimxA/maxresdefault.jpg" group-title="mifnTv" tvg-shift="+8",NICKELODEON hd
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528650.m3u8
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="AstrokCeria" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b8bfc70-f676-11eb-969f-a16188069736/1944541/350014641.png" group-title="mifnTv" tvg-shift="+8",AstrokCeria
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142672.m3u8
+#EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="mifnTv CARTOONS" tvg-shift="+8",Astro Ceria HD
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="CHN" tvg-name="Dreamwork HD" tvg-logo="https://itsmiyagi.site:443/images/a2eafa3c80163c811a9e3db8aa3dcea2.png" group-title="mifnTv" tvg-shift="+8",Dreamwork HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528655.m3u8
 #EXTINF:-1 tvg-id="boomerang.gb" tvg-name="Boomerang" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK013Boomerang.png" group-title="mifnTv" tvg-shift="+8",Boomerang
