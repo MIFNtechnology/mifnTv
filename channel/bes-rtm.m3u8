@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="001" tvg-name="BES RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",BES RTM
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
