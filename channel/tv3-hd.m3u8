@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="3" tvg-id="tv3.my" tvg-name="TV3 HD" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png",TV3 HD
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3 HD" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png",TV3 HD
 https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706164.m3u8
